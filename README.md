@@ -1,4 +1,4 @@
-# US_Home_Price_Index_Home.LLC_Assignmet_Intern
+# US_Home_Price_Index_Assignment
 
 Firstly Refer to Preparing_Data notebook and then Model_Building notebook to understand better.
 
